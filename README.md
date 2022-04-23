@@ -2,7 +2,9 @@
 Applied Stats II -- Prediction Analysis
 
 # Step 1
-`git clone https/..` 
+Set up a folder for your github repository.
+
+`git clone https://github.com/bamzie/Income-Prediction-Analysis.git` 
 in command line
 
 # Step 2
