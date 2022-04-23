@@ -21,7 +21,7 @@ in command line
 `git stash` if you are having pulling issues. 
 
 # Merging Issues
-If you have merging issues press `esc` followed by `:` then `wq` `enter`. 
+If you have merging issues press `esc` followed by `:` then `wq` `enter`. Once exited do a `git pull`. After this, you should be fine to `git push`
 
 # Details
 Keep a local file of your `.pynb` file and copy what ever you push to your local file. I'll do the same everytime I push and pull. 
