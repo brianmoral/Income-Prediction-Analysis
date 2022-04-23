@@ -20,5 +20,8 @@ in command line
 `git pull` to pull any updates on the repository. 
 `git stash` if you are having pulling issues. 
 
+# Merging Issues
+If you have merging issues press `esc` followed by `:` then `wq` `enter`. 
+
 # Details
 Keep a local file of your `.pynb` file and copy what ever you push to your local file. I'll do the same everytime I push and pull. 
